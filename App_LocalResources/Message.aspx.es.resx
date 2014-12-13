@@ -118,51 +118,71 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btn_submit.text" xml:space="preserve">
-    <value>عرض</value>
+    <value>presentar</value>
     <comment>Submit </comment>
   </data>
   <data name="lbl_gender.text" xml:space="preserve">
-    <value>أنا</value>
+    <value>Soy</value>
     <comment>I am</comment>
   </data>
   <data name="lbl_graduate.text" xml:space="preserve">
-    <value>أخطط لتخريج على</value>
+    <value>Tengo la intención de graduarse en</value>
     <comment>I plan to graduate on</comment>
   </data>
   <data name="lbl_language.text" xml:space="preserve">
-    <value>يرجى اختيار اللغة</value>
-    <comment>Please choose a language</comment>
+    <value>Por favor, elegir el idioma</value>
+    <comment>Please choose Language</comment>
+  </data>
+  <data name="lbl_mr.txt" xml:space="preserve">
+    <value>Sr.</value>
+    <comment>Mr.</comment>
+  </data>
+  <data name="lbl_ms.txt" xml:space="preserve">
+    <value>Sra.</value>
+    <comment>Ms.</comment>
   </data>
   <data name="lbl_name.text" xml:space="preserve">
-    <value>اسمي هو</value>
+    <value>Mi nombre es</value>
     <comment>My name is</comment>
   </data>
   <data name="lbl_salary.text" xml:space="preserve">
-    <value>عندما تخرجي آمل أن يجعل</value>
+    <value>Cuando me gradúe Espero hacer</value>
     <comment>When I graduate I hope to make</comment>
   </data>
   <data name="lbl_software.text" xml:space="preserve">
-    <value>تصميم وتطوير البرمجيات</value>
+    <value>Diseño y Desarrollo de Software</value>
     <comment>Software Design and Development</comment>
   </data>
   <data name="lbl_welcome.text" xml:space="preserve">
-    <value>مرحبا بكم في</value>
+    <value>Bienvenido a</value>
     <comment>Welcome to</comment>
   </data>
+  <data name="line1.text" xml:space="preserve">
+    <value>¡Hola, </value>
+    <comment>Hello, </comment>
+  </data>
+  <data name="line2.text" xml:space="preserve">
+    <value>Espero que tengas un greatday cuando se gradúe en </value>
+    <comment>I hope you have a greatday when you graduate on </comment>
+  </data>
+  <data name="line3.text" xml:space="preserve">
+    <value>Te deseo lo mejor en su carrera después de la graduación . Espero que gane </value>
+    <comment>I wish you well in your career after graduation. I hope you earn </comment>
+  </data>
+  <data name="line3B.text" xml:space="preserve">
+    <value>como un salario en su primer trabajo ! </value>
+    <comment> as a salary in your first job!</comment>
+  </data>
+  <data name="line4.text" xml:space="preserve">
+    <value>Por favor, visite conmigo en </value>
+    <comment>Please visit me on </comment>
+  </data>
   <data name="rb_female.text" xml:space="preserve">
-    <value>أنثى</value>
+    <value>Femenino</value>
     <comment>Female</comment>
   </data>
   <data name="rb_male.text" xml:space="preserve">
-    <value>ذكر</value>
+    <value>Masculino</value>
     <comment>Male</comment>
-  </data>
-  <data name="val_name.text" xml:space="preserve">
-    <value>يجب إدخال اسم!</value>
-    <comment>You must enter a name!</comment>
-  </data>
-  <data name="val_salary.text" xml:space="preserve">
-    <value>يجب عليك إدخال الراتب المطلوب!</value>
-    <comment>You must enter desired salary!</comment>
   </data>
 </root>

@@ -135,35 +135,22 @@
   <data name="lbl_salary.text" xml:space="preserve">
     <value>When I graduate, I hope to earn</value>
   </data>
+  <data name="lbl_software.text" xml:space="preserve">
+    <value>Software Design and Development</value>
+  </data>
   <data name="lbl_welcome.text" xml:space="preserve">
-    <value>Welcome!</value>
-  </data>
-  <data name="line1.text" xml:space="preserve">
-    <value>Hello,</value>
-    <comment>Hello, </comment>
-  </data>
-  <data name="line2.text" xml:space="preserve">
-    <value>I hope you have a great day when you graduate on</value>
-    <comment>I hope you have a greatday when you graduate on </comment>
-  </data>
-  <data name="line3A.text" xml:space="preserve">
-    <value>I wish you well in your career after graduation. I hope you earn</value>
-    <comment>I wish you well in your career after graduation. I hope you earn </comment>
-  </data>
-  <data name="line3B.text" xml:space="preserve">
-    <value>as a salary in your first job!</value>
-    <comment> as a salary in your first job!</comment>
-  </data>
-  <data name="line4.text" xml:space="preserve">
-    <value>Please visit me on </value>
-    <comment>Please visit me on </comment>
+    <value>Welcome To</value>
   </data>
   <data name="rb_female.text" xml:space="preserve">
     <value>Female</value>
-    <comment>Female</comment>
   </data>
   <data name="rb_male.text" xml:space="preserve">
     <value>Male</value>
-    <comment>Male</comment>
+  </data>
+  <data name="val_name.text" xml:space="preserve">
+    <value>You must enter a name!</value>
+  </data>
+  <data name="val_salary.text" xml:space="preserve">
+    <value>You must enter desired salary!</value>
   </data>
 </root>

@@ -141,29 +141,13 @@
     <value>当我毕业了，我希望做</value>
     <comment>When I graduate I hope to make</comment>
   </data>
+  <data name="lbl_software.text" xml:space="preserve">
+    <value>軟件設計與開發</value>
+    <comment>Software Design and Development</comment>
+  </data>
   <data name="lbl_welcome.text" xml:space="preserve">
-    <value>欢迎</value>
-    <comment>Welcome</comment>
-  </data>
-  <data name="line1.text" xml:space="preserve">
-    <value>您好，</value>
-    <comment>Hello, </comment>
-  </data>
-  <data name="line2.text" xml:space="preserve">
-    <value>我希望你有一个伟大的日子，当你毕业的</value>
-    <comment>I hope you have a greatday when you graduate on </comment>
-  </data>
-  <data name="line3A.text" xml:space="preserve">
-    <value>祝你顺利毕业后，你的职业生涯。我希望你赚 </value>
-    <comment>I wish you well in your career after graduation. I hope you earn </comment>
-  </data>
-  <data name="line3B.text" xml:space="preserve">
-    <value>在你的第一份工作的薪水！</value>
-    <comment> as a salary in your first job!</comment>
-  </data>
-  <data name="line4.text" xml:space="preserve">
-    <value>请访问我的 </value>
-    <comment>Please visit me on </comment>
+    <value>歡迎光臨</value>
+    <comment>Welcome to</comment>
   </data>
   <data name="rb_female.text" xml:space="preserve">
     <value>女</value>
@@ -172,5 +156,13 @@
   <data name="rb_male.text" xml:space="preserve">
     <value>男</value>
     <comment>Male</comment>
+  </data>
+  <data name="val_name.text" xml:space="preserve">
+    <value>您必須輸入名字！</value>
+    <comment>You must enter a name!</comment>
+  </data>
+  <data name="val_salary.text" xml:space="preserve">
+    <value>您必須輸入想要的薪水！</value>
+    <comment>You must enter desired salary!</comment>
   </data>
 </root>

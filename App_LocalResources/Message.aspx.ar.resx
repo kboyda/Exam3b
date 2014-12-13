@@ -133,6 +133,14 @@
     <value>يرجى اختيار اللغة</value>
     <comment>Please choose a language</comment>
   </data>
+  <data name="lbl_mr.txt" xml:space="preserve">
+    <value>السيد.</value>
+    <comment>Mr.</comment>
+  </data>
+  <data name="lbl_ms.txt" xml:space="preserve">
+    <value>السيدة.</value>
+    <comment>Ms.</comment>
+  </data>
   <data name="lbl_name.text" xml:space="preserve">
     <value>اسمي هو</value>
     <comment>My name is</comment>
@@ -149,6 +157,26 @@
     <value>مرحبا بكم في</value>
     <comment>Welcome to</comment>
   </data>
+  <data name="line1.text" xml:space="preserve">
+    <value>مرحبا، </value>
+    <comment>Hello, </comment>
+  </data>
+  <data name="line2.text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عند التخرج على </value>
+    <comment>I hope you have a great day when you graduate on </comment>
+  </data>
+  <data name="line3.text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج. آمل أن تكسب</value>
+    <comment>I wish you well in your career after graduation. I hope you earn </comment>
+  </data>
+  <data name="line3B.text" xml:space="preserve">
+    <value>كما راتبا في أول وظيفة الخاص بك!</value>
+    <comment> as a salary in your first job!</comment>
+  </data>
+  <data name="line4.text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
+    <comment>Please visit me on </comment>
+  </data>
   <data name="rb_female.text" xml:space="preserve">
     <value>أنثى</value>
     <comment>Female</comment>
@@ -156,13 +184,5 @@
   <data name="rb_male.text" xml:space="preserve">
     <value>ذكر</value>
     <comment>Male</comment>
-  </data>
-  <data name="val_name.text" xml:space="preserve">
-    <value>يجب إدخال اسم!</value>
-    <comment>You must enter a name!</comment>
-  </data>
-  <data name="val_salary.text" xml:space="preserve">
-    <value>يجب عليك إدخال الراتب المطلوب!</value>
-    <comment>You must enter desired salary!</comment>
   </data>
 </root>
